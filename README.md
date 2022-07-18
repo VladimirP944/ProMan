@@ -26,7 +26,7 @@ Hope you enjoy using Proman!
 ## A bit of context
 
 This application was built as part of my CodeCool journey. \
-I've worked on this app 2 sprints (each sprint has 4 days) with the help of my team-mate Vlad Puschiulescu. \
+I've worked on this app 2 sprints (each sprint has 4 days) with the help of my team-mate Dragos Vasile. \
 When we started working on this project we had about 6 months of programming experience and about 3 months of web development. \
 
 ## Features of the project
