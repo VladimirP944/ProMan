@@ -31,6 +31,7 @@ When we started working on this project we had about 6 months of programming exp
 
 ## Features of the project
 
+- Drag and drop cards to another column or the same column in another order.
 - Register new user
 - Login with credentials
 - Choose Public or Private when create a new board
