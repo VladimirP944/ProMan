@@ -4,7 +4,7 @@
 
 Proman is a web based project management tool.
 
-The application is designed to be used by users to manage their projects and tasks.
+The application is designed to help users manage their projects and tasks.
 It was developed as one-page application, which is easy to use and easy to maintain.
 Once you open the app you can see all the public boards but cannot modify them. Once you register and log in you can create boards and tasks.
 Each board represents a project and each card represents a task.
